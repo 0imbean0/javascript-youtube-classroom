@@ -111,3 +111,7 @@ cypress/support/
 
 # Vscode
 .vscode/
+
+# Youtube
+
+youtubeKey.txt
